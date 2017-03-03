@@ -5,12 +5,13 @@ Project Ignite is a third-person role-playing adventure-strategy game with creat
 ```
 WASD for running
 Mouse for looking
-While in battle
+
+While in battle:
 Mouse Scroll to select attack
 Left Click to attack
 Q to open creature selection menu
 ```
-
+---
 The game uses free assets from the following independent project:
 * Shrooms Project by altermind
 * Advanced Cinematic Grass Blueprint by AaronWith2As

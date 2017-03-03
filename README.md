@@ -1,0 +1,2 @@
+# Project-Ignite
+Project Ignite is a third-person role-playing adventure-strategy game with creature capture elements created in Unreal Engine 4. The game is data-driven with the creatures and their behavior being procedurally generated. The creatures have behavioral AI as well as combat AI. All assets were created in Blender and Photoshop. It was awarded the first prize in B.E. Project Competition - Tantravihar 2016.
